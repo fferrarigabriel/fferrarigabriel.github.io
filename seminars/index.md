@@ -1,6 +1,6 @@
 # Seminários
 
-Nessa página apresento alguns seminários e apresentações de trabalho que desenvolvi ao longo da graduação e agora no mestrado.
+Nessa página há a descrição alguns seminários e apresentações de trabalho que desenvolvi ao longo da graduação e agora no mestrado.
 
 
 
