@@ -5,7 +5,7 @@ Nessa página apresento alguns seminários e apresentações de trabalho que des
 
 
 # Solução Exata para o pêndulo simples 
-
+Nesse trabalho mostramos a solução do problema do Pêndulo simples para amplitudes de oscilação arbitrária. Com efeito, a solução do problema é feita em termos das funções elípticas de Jacobi.
 
 
 # TCC - Estabilidade de soluções periódicas para a equação de Schrödinger não linear
