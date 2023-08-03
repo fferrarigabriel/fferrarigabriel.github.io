@@ -1,7 +1,7 @@
 # Home
 
 <div align="center">
-  <img src="/perfil.png" alt="Níck's profile picture" width="200" height="200">
+  <img src="/95067735.png" alt="Gabriel's profile picture" width="200" height="200">
 </div>
 
 Hey guys. I'm Gabriel Fernandez Ferrari Melo, theoretical physicist. I just joined the master's degree in physics at the [Federal University of Goiás](https://posgraduacao.if.ufg.br/). Currently, I work in the field of quantum information, in particular, I am interested in the study and application of physical-mathematical methods in problems of quantum information theory.
