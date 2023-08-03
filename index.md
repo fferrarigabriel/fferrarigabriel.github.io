@@ -4,6 +4,11 @@
   <img src="/perfil.png" alt="Níck's profile picture" width="200" height="200">
 </div>
 
-Hello, there! I am Níckolas de Aguiar Alves, a theoretical physicist. I just got my MSc degree at the [Federal University of ABC](http://fisica.ufabc.edu.br/). I work in the interface between Quantum Mechanics and Gravitation. More specifically, I have recently been studying how to use the functional renormalization group to understand nonperturbative phenomena within quantum field theory in curved spacetime.
+Hey guys. I'm Gabriel Fernandez Ferrari Melo, theoretical physicist. I just joined the master's degree in physics at the [Federal University of Goiás](https://posgraduacao.if.ufg.br/). Currently, I work in the field of quantum information, in particular, I am interested in the study and application of physical-mathematical methods in problems of quantum information theory.
 
-This is my personal website. Here you will find a number of pieces of information and documents concerning what I studied throughout my career in Physics, since my early days as an undergraduate student at the [Institute of Physics at the University of São Paulo](http://portal.if.usp.br/ifusp/) (IFUSP), and also some links throwing you around to the webpages for events I organized (usually in Portuguese), links I find interesting, webpages from researchers I admire, and so on. A great deal of this website is based on my old page that used to be hosted at IFUSP's [Department of Mathematical Physics](http://portal.if.usp.br/fma/) (DFMA-IFUSP).
+Olá pessoal. Sou Gabriel Fernandez Ferrari Melo, físico teórico. Acabei de ingressar no mestrado em física da [Universidade Federal de Goiás](https://posgraduacao.if.ufg.br/). Atualmente, trabalho na área de informação quântica, em particular, estou interessado no estudo e aplicação de métodos físico-matemáticos em problemas de teoria da informação quântica.
+
+Welcome to my personal website. On this page I share some particular materials such as exercises, detailed demonstrations of some mathematical and physical results, as well as some texts that I developed during my graduation and now develop in my master's. My intention is that this space can help several students who, throughout their studies, found it difficult to understand some study topics and the like.
+
+Seja bem vindo ao meu site pessoal. Nessa página eu compartilho alguns materiais particulares como exercícios, demonstrações detalhadas de alguns resultados matemáticos e físicos além de alguns textos que desenvolvi ao longo da minha graduação e agora desenvolvon no meu mestrado. Meu intuito é que esse espaço possa ajudar vários estudantes que, ao longo dos seus estudos, encontraram dificuldades em entender alguns tópicos de estudo e afins.
+
